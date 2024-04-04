@@ -1,0 +1,10 @@
+commit_message: 🔄 Update file via sync
+
+# Syncs repos from thepurplebubble/template
+files:
+  - path: CONTRIBUTING.md
+    source: https://github.com/thepurplebubble/template/blob/main/CONTRIBUTING.md
+  - path: CODE_OF_CONDUCT.md
+    source: https://github.com/thepurplebubble/template/blob/main/CODE_OF_CONDUCT.md
+  - path: LICENSE.md
+    source: https://github.com/thepurplebubble/template/blob/main/LICENSE.md
